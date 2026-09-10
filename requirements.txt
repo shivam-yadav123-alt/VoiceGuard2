@@ -1,6 +1,8 @@
 streamlit
 torch
 torchaudio
+torchvision
 transformers
 librosa
 soundfile
+imageio-ffmpeg
