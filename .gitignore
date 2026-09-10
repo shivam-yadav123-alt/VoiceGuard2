@@ -17,3 +17,4 @@ evaluate.py.save
 
 .env
 *.pyc
+test_api.py
