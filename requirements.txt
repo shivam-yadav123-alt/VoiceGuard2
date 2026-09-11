@@ -6,3 +6,5 @@ transformers
 librosa
 soundfile
 imageio-ffmpeg
+av
+streamlit-webrtc
